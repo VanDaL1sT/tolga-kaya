@@ -1,0 +1,25 @@
+{
+  "name": "tolga-kaya",
+  "version": "1.0.0",
+  "description": "github ekleme",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "tolgakaya",
+  "license": "ISC",
+  "dependencies": {
+    "mongoose": "^5.7.12",
+    "simple-is": "^0.2.0"
+  },
+  "devDependencies": {
+    "webpack-cli": "^3.3.10"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/VanDaL1sT/tolga-kaya.git"
+  }
+
+
+
+}
